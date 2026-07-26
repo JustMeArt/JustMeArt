@@ -1,4 +1,4 @@
-<img align="right" width="320" src="assets/blackhole.png" alt="pixel art black hole" />
+<img align="right" width="480" src="assets/blackhole.png" alt="pixel art black hole" />
 
 ### Hi, I'm Lennart 👋
 
