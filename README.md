@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Lennart 👋
 
-<!--
-**JustMeArt/JustMeArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS B.Sc. student and software developer. I build things I'm passionate about, and try to show them off a little.
 
-Here are some ideas to get you started:
+**Current obsession:** quantum computing. After going through QGSS and QCWS, I turned my notes into a public, self-directed [**Quantum Computing Roadmap**](https://justmeart.github.io/Quantum-Computing-Roadmap/) — qubits to algorithms to error mitigation, organized and cross-linked as a browsable site.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm building
+
+- 🧠 [**Quantum-Computing-Roadmap**](https://github.com/JustMeArt/Quantum-Computing-Roadmap) — a self-directed QC curriculum, published as a site
+- 📬 [**daily-learning**](https://github.com/JustMeArt/daily-learning) — a 375-question curiosity bank + n8n workflow that emails me 3 questions every morning
+- 🎥 [**instagram-scraper**](https://github.com/JustMeArt/instagram-scraper) — scrapes creator videos, transcribes locally with Whisper, and extracts curiosity questions with Claude to feed the bank above
+
+#### 📫 Reach me
+
+[add whatever you're comfortable sharing — email, LinkedIn, etc.]
