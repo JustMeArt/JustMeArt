@@ -15,5 +15,4 @@ CS B.Sc. student and software developer. I build things I'm passionate about, an
 - 🎥 [**instagram-scraper**](https://github.com/JustMeArt/instagram-scraper) — scrapes creator videos, transcribes locally with Whisper, and extracts curiosity questions with Claude to feed the bank above
 
 #### 📫 Reach me
-
-[add whatever you're comfortable sharing — email, LinkedIn, etc.]
+https://www.linkedin.com/in/lennart-fornefett/
