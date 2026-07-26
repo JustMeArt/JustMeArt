@@ -1,6 +1,6 @@
 <img align="right" width="480" src="assets/blackhole.png" alt="pixel art black hole" />
 
-### Hi, I'm Lennart 👋
+### Hi, I'm LennArt 👋
 
 CS B.Sc. student and software developer. I build things I'm passionate about, and try to show them off a little.
 
