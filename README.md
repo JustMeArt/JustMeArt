@@ -1,8 +1,12 @@
+<img align="right" width="320" src="assets/blackhole.png" alt="pixel art black hole" />
+
 ### Hi, I'm Lennart 👋
 
 CS B.Sc. student and software developer. I build things I'm passionate about, and try to show them off a little.
 
 **Current obsession:** quantum computing. After going through QGSS and QCWS, I turned my notes into a public, self-directed [**Quantum Computing Roadmap**](https://justmeart.github.io/Quantum-Computing-Roadmap/) — qubits to algorithms to error mitigation, organized and cross-linked as a browsable site.
+
+<br clear="right"/>
 
 #### 🔭 What I'm building
 
